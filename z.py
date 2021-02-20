@@ -1,5 +1,4 @@
-# Decompiled By RandiSr
-# Github : https://github.com/RANDIOLOY
+# Hacked by sultan shariar
 # uncompyle6 version 3.7.4
 # Python bytecode 2.7
 # Decompiled from: Python 2.7.18 (default, Jan  8 2021, 21:22:55) 
